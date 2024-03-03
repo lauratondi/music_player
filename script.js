@@ -1,45 +1,45 @@
-// let tracks = [
-//   {
-//     url: './audio/Bang Bang (My Baby Shot Me Down) - Nancy Sinatra.mp3',
-//     cover: './cover/cover -1.jpeg',
-//     artist: 'Nancy Sinatra',
-//     title: 'Bang Bang (My Baby Shot Me Down)',
-//   },
-//   {
-//     url: './audio/Billie Jean - Michale Jackson.mp3',
-//     cover: './cover/cover -2.jpeg',
-//     artist: 'Michale Jackson',
-//     title: 'Billie Jean',
-//   },
+let tracks = [
+  {
+    url: './audio/Bang Bang (My Baby Shot Me Down) - Nancy Sinatra.mp3',
+    cover: './cover/cover -1.jpeg',
+    artist: 'Nancy Sinatra',
+    title: 'Bang Bang (My Baby Shot Me Down)',
+  },
+  {
+    url: './audio/Billie Jean - Michale Jackson.mp3',
+    cover: './cover/cover -2.jpeg',
+    artist: 'Michale Jackson',
+    title: 'Billie Jean',
+  },
 
-//   {
-//     url: './audio/Loving You, Baby - Charles Bradley.mp3',
-//     cover: './cover/cover -3.jpeg',
-//     artist: 'Charles Bradley',
-//     title: 'Lovin You, Baby',
-//   },
+  {
+    url: './audio/Loving You, Baby - Charles Bradley.mp3',
+    cover: './cover/cover -3.jpeg',
+    artist: 'Charles Bradley',
+    title: 'Lovin You, Baby',
+  },
 
-//   {
-//     url: './audio/Tatranky - Offlaga Disco Pax.mp3',
-//     cover: './cover/cover -4.jpeg',
-//     artist: 'Offlaga Disco Pax',
-//     title: 'Tatranky',
-//   },
+  {
+    url: './audio/Tatranky - Offlaga Disco Pax.mp3',
+    cover: './cover/cover -4.jpeg',
+    artist: 'Offlaga Disco Pax',
+    title: 'Tatranky',
+  },
 
-//   {
-//     url: './audio/The Healer - Erykah Badu.mp3',
-//     cover: './cover/cover -5.jpeg',
-//     artist: 'Erykah Badu',
-//     title: 'The Healer',
-//   },
+  {
+    url: './audio/The Healer - Erykah Badu.mp3',
+    cover: './cover/cover -5.jpeg',
+    artist: 'Erykah Badu',
+    title: 'The Healer',
+  },
 
-//   {
-//     url: './audio/This - Brian Eno.mp3',
-//     cover: './cover/cover -6.jpeg',
-//     artist: 'Brian Eno',
-//     title: 'This',
-//   },
-// ];
+  {
+    url: './audio/This - Brian Eno.mp3',
+    cover: './cover/cover -6.jpeg',
+    artist: 'Brian Eno',
+    title: 'This',
+  },
+];
 
 let track = document.querySelector('#track');
 let playing = false;
